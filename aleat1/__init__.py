@@ -6,6 +6,8 @@
 
 Created by Diego Ramirez and the Ramz Editions (c) Team. 2020 All rights reserved."""
 
+__version__ = "0.0.1"
+
 import time
 import random
 
